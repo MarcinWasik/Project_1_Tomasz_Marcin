@@ -1,5 +1,5 @@
 #include<iostream>
-#inlcude"methods.h"
+#include"methods.h"
 
 using namespace std;
 
