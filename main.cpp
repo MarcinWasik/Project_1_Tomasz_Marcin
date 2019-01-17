@@ -1,9 +1,10 @@
 #include<iostream>
-#inlcude<
+#inlcude"methods.h"
 
 using namespace std;
 
-int main(){
+int main()
+{
 
 
 
